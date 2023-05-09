@@ -1,7 +1,7 @@
 # DeliveryGo
 ----------------
 쉽고 빠른 택배조회 서비스
---------------
+-----------------
 <h3>프로젝트 소개</h3>
 모든 쇼핑몰의 배송 정보를 한 눈에 파악가능.
 휴대번호로 한 번 저장한 배송 정보는 언제든지 확인 가능.
@@ -19,6 +19,7 @@
 <li>Database : sqlite3, swquelize</li> 
 <li>Framework : vscode</li>
 <li>Frontend : html, css, javascript</li> 
+<li>UI design : <a href="https://www.figma.com/file/WyRUtzb4hv692v093dB03e/%ED%83%9D%EB%B0%B0%EA%B3%A0?type=design&node-id=149-4&t=WhuA6pmhMJ2UOhZn-0">figma</a></li>
 
 
 
