@@ -18,6 +18,9 @@
 <img src="https://user-images.githubusercontent.com/105612931/236971071-c31620cc-6e77-4abf-a83c-4a0b6570406f.gif">
 
 
+#### 피드백
+<img src="https://user-images.githubusercontent.com/105612931/236971624-83700543-17e1-4fc0-a885-cf65d25e5472.gif">
+
 -------------
 
 <h3>🗓개발기간</h3>
