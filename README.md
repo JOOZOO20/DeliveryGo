@@ -8,7 +8,12 @@
 휴대번호로 한 번 저장한 배송 정보는 언제든지 확인 가능.
 
 
+####메인 페이지
 <img src="https://user-images.githubusercontent.com/105612931/236969565-6403a819-d40d-4aa0-b4a5-8aedd03648e4.gif">
+
+
+####로그인, 조회
+<img src="https://user-images.githubusercontent.com/105612931/236971071-c31620cc-6e77-4abf-a83c-4a0b6570406f.gif">
 
 
 -------------
