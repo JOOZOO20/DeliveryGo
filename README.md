@@ -47,6 +47,6 @@ https://github.com/ghrltjdtprbs</li>
 <li>홍석현 : 백엔드, 프론트엔드 수정
 
 https://github.com/fr35wo</li>
-<li>차희주 : 프론트엔드
+<li>차희주 : 프론트엔드, UI다자인 수정
 
 https://github.com/JOOZOO20</li>
