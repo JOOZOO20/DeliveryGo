@@ -37,16 +37,4 @@
 <li>UI design : <a href="https://www.figma.com/file/WyRUtzb4hv692v093dB03e/%ED%83%9D%EB%B0%B0%EA%B3%A0?type=design&node-id=149-4&t=WhuA6pmhMJ2UOhZn-0">figma</a></li>
 
 
-
-----------------
-<h3>👥참여 인원</h3>
-
-<li>최혜미 : UI다자인, 백엔드, 프론트엔드 수정 
-
-https://github.com/ghrltjdtprbs</li>
-<li>홍석현 : 백엔드, 프론트엔드 수정
-
-https://github.com/fr35wo</li>
-<li>차희주 : 프론트엔드, UI다자인 수정
-
 https://github.com/JOOZOO20</li>
